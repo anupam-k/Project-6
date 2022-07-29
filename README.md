@@ -4,4 +4,4 @@
 ![image](https://user-images.githubusercontent.com/91872149/181814960-f1ff78a3-1388-49f5-b43a-7ca2f2d14622.png)
 
 
-## _Live Hosted Link_ : [Portfolio - Project 6](https://live-class-assignment-06.netlify.app/)
+## _Live Hosted Link_ : [Plant Landing Page - Project 6](https://live-class-assignment-06.netlify.app/)
