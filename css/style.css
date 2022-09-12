@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: #f4f3f8;
+    font-family: "Allerta", Arial, Helvetica, sans-serif;
+  }
+
+  #navbarMonstera {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1.5rem 4rem;
+    font-size: 1.2rem;
+  }
+
+  #navMid {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+  }
+  #navMid > div:first-child {
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-underline-offset: 8px;
+  }
+
+  #navMid h4 {
+    font-weight: 200;
+  }
+  h4 {
+    font-weight: 600;
+  }
+
+  #navEnd {
+    display: flex;
+    gap: 2rem;
+    font-size: 1rem;
+  }
+
+  #midWhole {
+    display: flex;
+    margin: auto;
+    width: 100vw;
+  }
+
+  #monstera {
+    margin-top: 2rem;
+    font-size: 100px;
+    font-weight: 900;
+    position: relative;
+    left: -8px;
+  }
+
+  #midWholePart1 {
+    margin-left: 10rem;
+  }
+
+  #midWholePart11 div ul li {
+    font-size: 20px;
+  }
+
+  #midWholePart11 div ul li:first-child {
+    position: relative;
+    top: 28px;
+  }
+
+  #midWholePart11 div ul li:nth-child(3) {
+    color: rgb(49, 49, 49);
+    width: 600px;
+  }
+  #midWholePart11 div ul li:nth-child(4) {
+    color: rgb(49, 49, 49);
+    width: 600px;
+  }
+
+  #midWholePart121 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2rem;
+    background: #466d50;
+    color: #fff;
+    width: fit-content;
+    border-radius: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+  }
+  #midWholePart122 img {
+    margin-top: 5px;
+    margin-left: 20px;
+  }
+
+  #midWholePart13 {
+    display: flex;
+    width: 1000px;
+    gap: 2rem;
+  }
+
+  .midWholePart13Parts {
+    display: flex;
+    gap: 12px;
+  }
+  .text {
+    font-size: 0.8rem;
+    color: grey;
+  }
+
+  #imgMain {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 29%;
+  }
